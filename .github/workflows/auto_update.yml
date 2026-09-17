@@ -29,6 +29,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add index.md
+        git add index.html
         git commit -m "Auto updated: $(date)" || exit 0
         git push
