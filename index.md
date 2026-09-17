@@ -1,6 +1,8 @@
-# 海外で今大流行中のDiscord Botトレンドランキング
+<link rel="stylesheet" href="https://jsdelivr.net">
+    
+    # 海外で今大流行中のDiscord Botトレンドランキング
 
-最終更新日時: 2026-09-17 18:16 (自動更新)
+最終更新日時: 2026-09-17 18:50 (自動更新)
 
 世界最大のBotサイト「Top.gg」で、今まさにトレンドに入っている大注目のDiscord Botを自動で集約して紹介しています。あなたのサーバーの機能拡張にぜひ役立ててください！
 
@@ -11,15 +13,15 @@
 - **紹介**: 今Top.ggのトレンドにランクインしている注目のBotです。
 
 ### 2. 【Vote (142)】
-- **詳細・導入リンク**: [Vote (142)のTop.ggページはこちら](https://top.gg/bot/1273258608771207248/vote?ad=AQCkLvTl4b8JpMceqBsPpVt_ZDhzw4Kpk5A3wZcUgypC_14AJ-mTrJlOr3eQvWXQ3CsLuyixvmAB9pXbczB27QBtKGD8wbZqdr1wj8sTheaNw6XPBcpd9L_is9DXDT-bpX4YFaz-j7jh6cB1_rusaw)
+- **詳細・導入リンク**: [Vote (142)のTop.ggページはこちら](https://top.gg/bot/1273258608771207248/vote?ad=AQBXqzTfgt2drgmzq2w2PfzK_bEwrhCCyEF0lRLTmqfXYrtkIQO0OrH-2pZF1qSsR46wSLpo8z5VGSc9omzBKVcfTgIM0pemC_uuSa4xT38Q7xGxWBN6TLxHD1GRHwSJ1FRoA9bN0v8c2lqNCLpoSA)
 - **紹介**: 今Top.ggのトレンドにランクインしている注目のBotです。
 
 ### 3. 【Vote (3.22M)】
 - **詳細・導入リンク**: [Vote (3.22M)のTop.ggページはこちら](https://top.gg/bot/432610292342587392/vote)
 - **紹介**: 今Top.ggのトレンドにランクインしている注目のBotです。
 
-### 4. 【Vote (856K)】
-- **詳細・導入リンク**: [Vote (856K)のTop.ggページはこちら](https://top.gg/bot/646937666251915264/vote)
+### 4. 【Vote (857K)】
+- **詳細・導入リンク**: [Vote (857K)のTop.ggページはこちら](https://top.gg/bot/646937666251915264/vote)
 - **紹介**: 今Top.ggのトレンドにランクインしている注目のBotです。
 
 ### 5. 【Vote (598K)】
@@ -30,8 +32,8 @@
 - **詳細・導入リンク**: [Vote (449K)のTop.ggページはこちら](https://top.gg/bot/1261042392413372520/vote)
 - **紹介**: 今Top.ggのトレンドにランクインしている注目のBotです。
 
-### 7. 【Vote (388K)】
-- **詳細・導入リンク**: [Vote (388K)のTop.ggページはこちら](https://top.gg/bot/716390085896962058/vote)
+### 7. 【Vote (389K)】
+- **詳細・導入リンク**: [Vote (389K)のTop.ggページはこちら](https://top.gg/bot/716390085896962058/vote)
 - **紹介**: 今Top.ggのトレンドにランクインしている注目のBotです。
 
 ### 8. 【Vote (372K)】
@@ -46,16 +48,16 @@
 - **詳細・導入リンク**: [Vote (297K)のTop.ggページはこちら](https://top.gg/bot/853629533855809596/vote)
 - **紹介**: 今Top.ggのトレンドにランクインしている注目のBotです。
 
-### 11. 【Vote (242K)】
-- **詳細・導入リンク**: [Vote (242K)のTop.ggページはこちら](https://top.gg/bot/664508672713424926/vote)
+### 11. 【Vote (243K)】
+- **詳細・導入リンク**: [Vote (243K)のTop.ggページはこちら](https://top.gg/bot/664508672713424926/vote)
 - **紹介**: 今Top.ggのトレンドにランクインしている注目のBotです。
 
 ### 12. 【Vote (173K)】
 - **詳細・導入リンク**: [Vote (173K)のTop.ggページはこちら](https://top.gg/bot/1061825343285112842/vote)
 - **紹介**: 今Top.ggのトレンドにランクインしている注目のBotです。
 
-### 13. 【Vote (741)】
-- **詳細・導入リンク**: [Vote (741)のTop.ggページはこちら](https://top.gg/bot/1518126928060616784/vote?campaign=1-0)
+### 13. 【Vote (742)】
+- **詳細・導入リンク**: [Vote (742)のTop.ggページはこちら](https://top.gg/bot/1518126928060616784/vote?campaign=1-0)
 - **紹介**: 今Top.ggのトレンドにランクインしている注目のBotです。
 
 ### 14. 【Vote (10)】
