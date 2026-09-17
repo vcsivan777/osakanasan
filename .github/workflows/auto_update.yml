@@ -1,0 +1,34 @@
+name: Auto Update Top.gg Trend
+
+on:
+  schedule:
+    # 毎日UTC 15:00（日本時間の夜24:00）に自動実行するタイマー
+    - cron: '0 15 * * *'
+  workflow_dispatch: # 手動で今すぐ動かすボタンもつける
+
+jobs:
+  update-site:
+    runs-on: ubuntu-latest
+    steps:
+    - name: コードをチェックアウト
+      uses: actions/checkout@v3
+
+    - name: Pythonの準備
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: 必要なライブラリを入れる
+      run: |
+        pip install requests beautifulsoup4 curl_cffi
+
+    - name: スクレイピングを実行
+      run: python update.py
+
+    - name: 変更されたindex.mdを保存してサイトを更新
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add index.md
+        git commit -m "Auto updated: $(date)" || exit 0
+        git push
