@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="https://jsdelivr.net">
+<meta charset="utf-8"><link rel="stylesheet" href="https://jsdelivr.net"><script src="https://jsdelivr.net"></script><script>window.onload=()=>{const b=document.body;b.innerHTML=marked.parse(b.innerText);b.style.display='block'}</script><style>body{display:none;max-width:800px;margin:40px auto;padding:0 20px}</style>
+
     
     # 海外で今大流行中のDiscord Botトレンドランキング
 
