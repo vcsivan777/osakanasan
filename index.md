@@ -1,5 +1,7 @@
-<link rel="stylesheet" href="https://jsdelivr.net">
-    
+
+
+
+
     # 海外で今大流行中のDiscord Botトレンドランキング
 
 最終更新日時: 2026-09-17 18:50 (自動更新)
